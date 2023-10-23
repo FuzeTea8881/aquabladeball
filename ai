@@ -1,6 +1,6 @@
 script_key = ""
 
-getgenv().Mode = "AI" -- "Idle","Rage", "AI"
+getgenv().Mode = "Idle" -- "Idle","Rage", "AI"
 getgenv().AIJumpState = true --Allow Ai To Jump
 getgenv().StopAutoParry = false
 getgenv().PingBased = true
